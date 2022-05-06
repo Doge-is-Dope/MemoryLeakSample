@@ -1,6 +1,7 @@
 # MemoryLeakSample
 
 This sample is referred to my [post on stackoverflow](https://stackoverflow.com/questions/71433551/data-binding-causes-memory-leak-even-the-binding-has-been-nullified).
+It can be tracked on [Google IssueTracker](https://issuetracker.google.com/issues/229136453).
 
 ## Repro
 1. Clone the repo
