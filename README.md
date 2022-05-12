@@ -17,6 +17,8 @@ git clone https://github.com/Doge-is-Dope/MemoryLeakSample.git
 
 ## Update
 
+#### May 12, 2022
+- Marked as fixed by Google
 
 #### Apr 16, 2022
 - Marked as known issue by LeakCanary in the next release - [pull request](https://github.com/square/leakcanary/pull/2347)
